@@ -213,7 +213,7 @@ strong {
 
 .startups-section {
   position: relative;
-  display: block;
+  display: none;
   overflow: hidden;
   height: auto;
   padding-top: 80px;
